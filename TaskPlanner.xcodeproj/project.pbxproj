@@ -51,6 +51,9 @@
 		63C1A6A429A1C8A7002CF160 /* TaskPlanner */ = {
 			isa = PBXGroup;
 			children = (
+				63C1A6B529A1CA93002CF160 /* View */,
+				63C1A6B429A1CA8D002CF160 /* Model */,
+				63C1A6B329A1CA80002CF160 /* Fonts */,
 				63C1A6A529A1C8A7002CF160 /* TaskPlannerApp.swift */,
 				63C1A6A729A1C8A7002CF160 /* ContentView.swift */,
 				63C1A6A929A1C8A8002CF160 /* Assets.xcassets */,
@@ -65,6 +68,27 @@
 				63C1A6AC29A1C8A8002CF160 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		63C1A6B329A1CA80002CF160 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		63C1A6B429A1CA8D002CF160 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		63C1A6B529A1CA93002CF160 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
